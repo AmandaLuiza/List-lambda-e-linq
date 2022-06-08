@@ -1,0 +1,7 @@
+C:\Users\amanda.ribeiro\Documents\Visual Studio\csharppt7-aula0\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\amanda.ribeiro\Documents\Visual Studio\csharppt7-aula0\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\amanda.ribeiro\Documents\Visual Studio\csharppt7-aula0\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\amanda.ribeiro\Documents\Visual Studio\csharppt7-aula0\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\Documents\Visual Studio\csharppt7-aula0\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\Documents\Visual Studio\csharppt7-aula0\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\amanda.ribeiro\Documents\Visual Studio\csharppt7-aula0\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
